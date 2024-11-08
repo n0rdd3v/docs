@@ -103,7 +103,7 @@ Mappings (Hashes, Objects, Dictionaries)
 ========================================
 
 Mappings (maps) are a set of key/value pairs. Each key and value is
-separated be a colon (``:``). The colon must be followed by a whitespace
+separated by a colon (``:``). The colon must be followed by a whitespace
 character (space or newline). The value can be a scalar (string/number)
 value, a newly indented mapping or sequence.
 
@@ -220,8 +220,9 @@ Validate Your YAML
 
 You can use an online YAML validator, such as the ones found here:
 
-  - `YAML Lint <http://www.yamllint.com/>`__
-  - `Code Beautify <http://codebeautify.org/yaml-validator>`__
+  - `YAML Lint <https://www.yamllint.com/>`__
+  - `Code Beautify <https://codebeautify.org/yaml-validator>`__
+  - `Yamline <https://yamline.com/validator/>`__
 
 Conclusion
 ==========
